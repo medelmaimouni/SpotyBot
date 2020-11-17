@@ -1,6 +1,7 @@
 This document synthetizes and explain what SpotyBot aim to do. Let we begin by its context of the development.
 
-## Context: SpotyBot is a chatbot for recommending and suggesting track titles for a specific artist on Spotify. It interacts in Back-end with Spotify API in order to give our user the best results
+## Context: 
+SpotyBot is a chatbot for recommending and suggesting track titles for a specific artist on Spotify. It interacts in Back-end with Spotify API in order to give our user the best results
 
 ## SPOTYBOT ’S SCOPE
 As a friend, SpotyBot shoud be able to:
