@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/mac/Documents/Projects/Chatbot/Spoty_Bot/venv/SpotyBot/./models/nlu/default/spotybot/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/Users/mac/Documents/Projects/Chatbot/Spoty_Bot/venv/SpotyBot/./models/nlu/default/spotybot/intent_classifier_tensorflow_embedding.ckpt"

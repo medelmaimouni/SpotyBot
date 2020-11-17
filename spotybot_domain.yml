@@ -1,0 +1,34 @@
+slots:
+  artist_name:
+    type: text
+  
+
+intents:
+ - greeting
+ - get_track
+ - subscription
+
+
+
+entities:
+ - artist_name
+ - track_details
+
+ - subscribe
+ 
+
+templates:
+  utter_greet:
+    - "Hello! What can I do for you?"
+  utter_ask_artist_name:
+    - "Do you have an artist in mind?"
+  utter_subscribe:
+    - "Do you want to subscribe for daily updates?"
+  
+
+actions:
+ - utter_greet
+ - utter_ask_artist_name
+ - utter_subscribe
+ - get_get_track
+ - subscribe_user

@@ -1,0 +1,278 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "get_artist",
+        "text": "I want to listen to some music "
+      },
+      {
+        "intent": "get_artist",
+        "text": "Can you suggest to me some music to listen to"
+      },
+      {
+        "intent": "subscription",
+        "text": "Please subscribe me"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello spotybot"
+      },
+      {
+        "intent": "greeting",
+        "text": "hello bot"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi there"
+      },
+      {
+        "intent": "greeting",
+        "text": "bonjour"
+      },
+      {
+        "intent": "get_artist",
+        "text": "Tell me a track title"
+      },
+      {
+        "intent": "get_artist",
+        "text": "What do you want me to listen to today "
+      },
+      {
+        "intent": "get_artist",
+        "text": "Propose to me some music"
+      },
+      {
+        "intent": "get_artist",
+        "text": "What's today's track title?"
+      },
+      {
+        "intent": "subscription",
+        "entities": [
+          {
+            "start": 7,
+            "end": 16,
+            "value": "True",
+            "entity": "subscribe"
+          }
+        ],
+        "text": "please subscribe me"
+      },
+      {
+        "intent": "subscription",
+        "entities": [
+          {
+            "start": 4,
+            "end": 13,
+            "value": "True",
+            "entity": "subscribe"
+          }
+        ],
+        "text": "yes subscribe"
+      },
+      {
+        "intent": "subscription",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "True",
+            "entity": "subscribe"
+          }
+        ],
+        "text": "subscribe"
+      },
+      {
+        "intent": "subscription",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "True",
+            "entity": "subscribe"
+          }
+        ],
+        "text": "subscribe me horoscopebot"
+      },
+      {
+        "intent": "subscription",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "True",
+            "entity": "subscribe"
+          }
+        ],
+        "text": "subscribe me please"
+      },
+      {
+        "intent": "get_artist",
+        "entities": [
+          {
+            "start": 13,
+            "end": 19,
+            "value": "Stormy",
+            "entity": "artist_name"
+          }
+        ],
+        "text": "Play me some Stormy music"
+      },
+      {
+        "intent": "get_artist",
+        "entities": [
+          {
+            "start": 22,
+            "end": 26,
+            "value": "Cheb",
+            "entity": "artist_name"
+          }
+        ],
+        "text": "give me a trial for a Cheb's track"
+      },
+      {
+        "intent": "get_artist",
+        "entities": [
+          {
+            "start": 5,
+            "end": 20,
+            "value": "Gnawa Diffusion",
+            "entity": "artist_name"
+          }
+        ],
+        "text": "Some Gnawa Diffusion music please"
+      },
+      {
+        "intent": "get_artist",
+        "entities": [
+          {
+            "start": 28,
+            "end": 39,
+            "value": "Soufiane Az",
+            "entity": "artist_name"
+          }
+        ],
+        "text": "Give me a preview url for a Soufiane Az track"
+      },
+      {
+        "intent": "get_artist",
+        "entities": [
+          {
+            "start": 5,
+            "end": 11,
+            "value": "Fairuz",
+            "entity": "artist_name"
+          }
+        ],
+        "text": "Some Fairuz's relaxing music"
+      },
+      {
+        "intent": "subscription",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "False",
+            "entity": "subscribe"
+          }
+        ],
+        "text": "unsubscribe me"
+      },
+      {
+        "intent": "subscription",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "False",
+            "entity": "subscribe"
+          }
+        ],
+        "text": "unsubscribe"
+      },
+      {
+        "intent": "get_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Labess",
+            "entity": "artist_name"
+          },
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Labess",
+            "entity": ""
+          }
+        ],
+        "text": "Labess"
+      },
+      {
+        "intent": "get_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "ElGrandeToto",
+            "entity": "artist_name"
+          }
+        ],
+        "text": "ElGrandeToto"
+      },
+      {
+        "intent": "get_artist",
+        "entities": [
+          {
+            "start": 20,
+            "end": 24,
+            "value": "Tyga",
+            "entity": "artist_name"
+          }
+        ],
+        "text": "I want to listen to Tyga"
+      },
+      {
+        "intent": "get_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "ElGrandeToto",
+            "entity": "artist_name"
+          }
+        ],
+        "text": "ElGrandeToto"
+      },
+      {
+        "intent": "get_artist",
+        "text": "Some music please !"
+      },
+      {
+        "intent": "get_artist",
+        "entities": [
+          {
+            "start": 12,
+            "end": 18,
+            "value": "Labess",
+            "entity": "artist_name"
+          }
+        ],
+        "text": "I want some Labess music"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi there!"
+      }
+    ],
+    "regex_features": [],
+    "entity_synonyms": []
+  }
+}
