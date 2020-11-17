@@ -37,3 +37,13 @@ User: Sure, I do
 SpotyBot : You can listen to this track, by visiting : WWW
 User: Thanks
 SpotyBot : Thank you for your trust, SpotyBot is in your service
+
+
+
+## Aknowledgment
+I want to thank :
+- [https://www.youtube.com/channel/UCWEHue8kksIaktO8KTTN_zg](**CodingEntrepreneurs**) for their awesome videos tutoriels
+- **Sumit Raj** for his well explained book [https://www.amazon.com/Building-Chatbots-Python-Language-Processing/dp/1484240952/ref=sr_1_1?dchild=1&keywords=chatbot+python&qid=1605613414&sr=8-1](**Building Chatbots with Python: Using Natural Language Processing and Machine Learning**) 
+
+
+
